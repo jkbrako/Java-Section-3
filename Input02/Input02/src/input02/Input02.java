@@ -29,5 +29,9 @@ public class Input02 {
                 acceptableValues,
                 acceptableValues[1]);
                 
+        JOptionPane.showMessageDialog(null,
+                "This program will not be saved, dummy!",
+                "Troll",
+                0);
     }
 }
